@@ -11,7 +11,7 @@
 <style>
 .form{
 	margin-top:100px;
-	margin-left:600px;
+	margin-left:500px;
 	
 }
 .footer{
